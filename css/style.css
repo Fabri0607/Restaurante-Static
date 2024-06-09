@@ -167,7 +167,7 @@ nav a:hover{
     width: 100%;
     margin: 0 auto;
     padding: 50px 0;
-    background-image: url(img/fondoAzul.jpg);
+    background-image: url(../img/fondoAzul.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
